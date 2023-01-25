@@ -1,0 +1,6 @@
+adversarial-robustness-toolbox==1.13.0
+jupyter==1.0.0
+matplotlib==3.3.4
+numpy==1.22
+torch==1.13.1
+torchvision==0.14.1
